@@ -5,7 +5,7 @@ This is a post-processing for local normalized helicity based on foam-extend-4.1
 ## Mathematical Relationships
 $$ LNH =  {{U. \nabla U} \over {\mid U \mid . \mid \nabla U \mid}} $$
 
-Which $LNH$, $T$, $U$, and $n$ are wall shear stress, dynamic viscosity, velocity vector, and perpendicular vector, respectively.
+Which $LNH$ and $U$are local normalized helicity and velocity vector, respectively.
 
 
 ## Installation
