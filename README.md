@@ -1,5 +1,5 @@
 # LNHPP
-This is a post-processing for local normalized helicity based on foam-extend-4.1.
+This is a post-processing for local normalized helicity written based on foam-extend-4.1.
 
 
 ## Mathematical Relationships
